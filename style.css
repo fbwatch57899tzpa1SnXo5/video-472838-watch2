@@ -53,7 +53,7 @@ user-select: none;
   height: 60px;
   font-size: 15px;
   font-weight:500;
-  padding: 0 25px;
+  padding: 14px;
   margin-bottom: 15px;
   border-radius: 10px;
   border:solid 1px #cbcbcb;
@@ -127,7 +127,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration: underlin;
 }
 section a {
   color: #555;
